@@ -7,7 +7,7 @@ export default function Home() {
         <div className="text-center md:text-left">
           <Image src="/logo.png" alt="Logo" width={100} height={100} className="mx-auto md:mx-0 mb-4" />
           <h1 className="text-4xl md:text-[48px] font-bold leading-tight md:leading-[70px] text-white mb-4">
-            Muhammad Sufyan
+            Muhammad Sufyan jutt
           </h1>
           <h2 className="text-xl md:text-[24px] font-medium leading-relaxed md:leading-[30px] text-white">
             Web Developer & Designer
