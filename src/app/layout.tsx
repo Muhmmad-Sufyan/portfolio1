@@ -9,6 +9,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://sufyandev.netlify.app"),
   title: "Muhammad Sufyan Portfolio",
   description: "Portfolio website of Muhammad Sufyan, a web developer and designer. Showcasing projects, skills, and contact information. And also a blog section for sharing insights and tutorials on web development.A portfolio website built with Next.js and Tailwind CSS.",
   keywords: [
